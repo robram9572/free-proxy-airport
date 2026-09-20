@@ -7,7 +7,7 @@
 Profiles -> Add URL:
 
 ```text
-https://sunmiao4458.github.io/free-proxy-airport/clash.yaml
+https://robram9572.github.io/free-proxy-airport/clash.yaml
 ```
 
 ## 自动更新
